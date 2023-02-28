@@ -13,6 +13,8 @@ body {
 .containar {
     width: 80px;,
     margin: 30px auto;
+    display: grid;
+    gat: 50;
 }
 
 .profile-img {
