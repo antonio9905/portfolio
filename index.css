@@ -9,3 +9,17 @@
     display: grid;
     gap: 20px;
 }
+.skills-container{
+    display: flex;
+    justify-content: ;
+    gap: 30px;
+    padding: 10px 30;
+    flex-wrap: wrap;
+}
+.skills-container > div {
+    background-color: white;
+    border: 1px solid #b3b3b3;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 7px 10px;
+}
