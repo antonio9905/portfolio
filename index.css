@@ -3,7 +3,7 @@
     height: 10px;
 }
 .about-me{
-    background-color: blueviolet;
+    background-color: #bfbfbf;
     padding: 20px;
     border-radius: 5px;
     display: grid;
@@ -29,4 +29,7 @@
 .skills-container > div > ul {
     margin-left: 30px;
     list-style: circle;
+}
+.skills-container > div > ul > li {
+    text-transform: capitalize;
 }
