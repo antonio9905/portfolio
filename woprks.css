@@ -3,5 +3,17 @@ card-professional-experience {
     padding: 20px;
     border-radius: 5px;
     background-color: white;
-    width: 100%;
+    display: grid;
+    gap: 10px;
+}
+
+.profissional-experience-containet{
+    display: grid;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.activities{
+    margin-left: 40px;
+
 }
