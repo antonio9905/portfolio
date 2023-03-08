@@ -46,12 +46,17 @@ body {
 }
 
 .title::after{
- content: ;
+ content: "" ;
  width: 100px;
  height: 6px;
  display: block;
  background-color: blue;
- 
+ border-radius: 3px;
+}
+.list-card-contanier{
+    display: grid;
+    gap: 30px;
+    margin-top: 30px; 
 }
 @media (min-width: 1100px) {
     .container{

@@ -1,16 +1,10 @@
-card-professional-experience {
+card {
     border: 1px;
     padding: 20px;
     border-radius: 5px;
     background-color: white;
     display: grid;
     gap: 10px;
-}
-
-.profissional-experience-containet{
-    display: grid;
-    gap: 30px;
-    margin-top: 30px;
 }
 
 .activities{
