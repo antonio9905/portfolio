@@ -29,3 +29,12 @@
     min-height: 160px;
     overflow-y: auto;
 }
+
+.button-link-github{
+    background-color: #4b6cc1;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
