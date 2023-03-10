@@ -38,3 +38,12 @@
     border-radius: 5px;
     font-weight: bolder;
 }
+
+.action-container{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.project-imagem-container{
+    align-self: center;
+}
