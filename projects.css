@@ -2,8 +2,7 @@
   width: 100%;
 }
 .content-project {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
     gap: 30px;
 }
 .project-techologies{
