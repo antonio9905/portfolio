@@ -1,5 +1,5 @@
-card {
-    border: 1px;
+.card-professional-experience {
+    border: 1px solid #bfbfbf;
     padding: 20px;
     border-radius: 5px;
     background-color: white;
@@ -7,7 +7,12 @@ card {
     gap: 10px;
 }
 
+.professional-experience-container{
+    display: grid;
+    gap: 30px;
+    margin-top: 30px;
+}
+
 .activities{
     margin-left: 40px;
-
 }
